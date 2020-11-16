@@ -8,4 +8,4 @@ This repository contains my solutions for the first homework of Koç University'
 pip3 install -r requirements.txt
 ```
 
-Creating a virtual environment is recommended.
+Creating a virtual environment is recommended. Check report.pdf to see the report.
